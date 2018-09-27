@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="textview">Антикафе \"ГЛХФ\"</string>
+    <string name="textview2"></string>
+    <string name="textview5">Адрес: г. Москва, Армянский переулок, дом 3-5, строение 10, вход со двора в красные ворота, в дверь под гербом.</string>
+    <string name="textview4"> Мы в твитторе: @glhf_msk \nМы в хипстограме: glhf.msk \nПочта glhf.msk@gmail.com</string>
+    <string name="textview6">Первое в Москве тайм-кафе, ориентированное на играющих в видеоигры, увлекающихся и сочувствующих.</string>
+</resources>
